@@ -50,8 +50,11 @@ The Excel dashboard visualizes:
 6. **Electric models:** Increasing sales since 2020 
 📘 Insights report: Documentation/Insights_Report.docx 
 
-📘 Insights report: [`Documentation/Insights_Report.docx`](./Documentation/Insights_Report.docx)  
-📊 Dashboard PDF: [`PDF/BMW_Dashboard.pdf`](./PDF/BMW_Dashboard.pdf)
+## 📄 Project Files
+
+📘 **Insights Report:** [Documentation/Insights_Report.docx](Documentation/Insights_Report.docx)  
+📊 **Dashboard PDF:** [PDF/BMW_Dashboard.pdf](PDF/BMW_Dashboard.pdf)
+
 
  
 
