@@ -50,22 +50,6 @@ The Excel dashboard visualizes:
 6. **Electric models:** Increasing sales since 2020 
 📘 Insights report: Documentation/Insights_Report.docx 
 
-## 🗂️ Project Directory
-
-📁 [Documentation](Documentation)  
-↳ [📘 Insights_Report.docx](Documentation/Insights_Report.docx)  
-↳ [🧹 Data_Cleaning_Steps.txt](Documentation/Data_Cleaning_Steps.txt)
-
-📁 [PDF](PDF)  
-↳ [📊 BMW_Dashboard.pdf](PDF/BMW_Dashboard.pdf)  
-↳ [📈 PivotTable_Report.pdf](PDF/PivotTable_Report.pdf)
-
-📄 [BMW sales data (2010–2024).csv](BMW%20sales%20data%20(2010–2024).csv)  
-📊 [BMW_Sales_Analysis_Excel_only(2024-2010).xlsx](BMW_Sales_Analysis_Excel_only(2024-2010).xlsx)
-
-
-
- 
 
 ## 🛠️ Tools Used
 - **Microsoft Excel**
