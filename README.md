@@ -1,4 +1,4 @@
-# 🚗 BMW Sales Analysis (2010–2024) — Excel Dashboard
+# 🚗 BMW Sales Analysis (2010–2024) — Excel 
 
 ## 📊 Project Overview
 This project analyzes BMW car sales data from **2010 to 2024**, focusing on identifying trends, top-performing models, and regional performance.  
